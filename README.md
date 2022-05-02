@@ -17,7 +17,7 @@ A saída para cada funcionalidade pode ser visualizada no link: https://github.c
 
 =================================================================
 
-O segundo item: "Cálculo da Área" retornará ao usuário um menu com 6 figuras planas, e após a escolha da figura desejada, será aberto inputs que permitirão o usuário informar os valores presentes nas figuras para que o cálculo seja feito.
+O segundo item: "Cálculo da Área" retornará ao usuário um menu com 6 figuras planas e após a escolha da figura desejada, será aberto inputs que permitirão o usuário informar os valores presentes nas figuras para que o cálculo seja feito.
 
 ![a](https://user-images.githubusercontent.com/84475339/166300063-48daa6e4-f4b3-464b-9cc3-a1a3d7219cc4.png)
 
