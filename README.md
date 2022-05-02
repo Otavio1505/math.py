@@ -7,13 +7,13 @@ Projeto pessoal, na qual eu uni 3 outros programas pessoais que tratam da facili
 # Como funciona?
 Ao iniciar o programa será apresentado ao usuário o Menu inicial.
 
-![a](https://user-images.githubusercontent.com/84475339/166299162-2b33b4e1-21e7-4742-a0e4-266dc16944fc.png)
+![a](https://user-images.githubusercontent.com/84475339/166303196-727e1089-47cd-4b1e-a472-5cf08b2155a5.png)
 
 O item: "Análise de Dados", retornará ao usuário um menu com 17 funcionalidades, presentes no programa singular.
 
 ![a](https://user-images.githubusercontent.com/84475339/166299417-65327c35-15c2-4db2-90cd-d495e892229c.png)
 
-A saída para cada funcionalidade pode ser visualizada no link: https://github.com/Otavio1505/calculadora-cientifica-em-python
+A saída para cada funcionalidade pode ser visualizada no link: https://github.com/Otavio1505/calculadora-cientifica-em-python/blob/main/README.md
 
 =================================================================
 
@@ -24,3 +24,19 @@ O segundo item: "Cálculo da Área" retornará ao usuário um menu com 6 figuras
 A saída para cada figura plana pode ser visualizada no link: https://github.com/Otavio1505/calculo-area-em-python/blob/main/README.md
 
 =================================================================
+
+O terceiro item: "Bhaskara", já será retornado o usuário os inputs (3) que iniciarão o cálculo da fórmula de Bhaskara.
+Sua saída pode ser vista a seguir:
+
+![a](https://user-images.githubusercontent.com/84475339/166302718-4a37549e-408c-42d4-81b6-bfaaa714977b.png)
+
+Ao final do resultado, o programa é reiniciado e o Menu Inicial é apresentado novamente. Tendo seu término apenas quando o usuário digitar e confirmar o número "4".
+
+=================================================================
+
+Caso o usuário digite um número que não corresponde a um item apresentado no Menu Inicial, é retornada uma mensagem de erro e o programa é automaticamente reiniciado.
+
+![a](https://user-images.githubusercontent.com/84475339/166303099-8680e201-cc13-4486-a372-b9ef83a922e3.png)
+
+# Autor
+Otávio Moraes Braga
